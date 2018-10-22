@@ -6,3 +6,4 @@ Understanding git as part of hacktoberfest.
 
  - [ ] Initializing git command - ```init```.
  - [ ] Stagin git command - ```add```.
+ - [ ] Commiting files - ```commit```.
