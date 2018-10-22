@@ -4,6 +4,6 @@ Understanding git as part of hacktoberfest.
 
 ## Checklist
 
- - [ ] Initializing git command - ```init```.
+ - [x] Initializing git command - ```init```.
  - [ ] Stagin git command - ```add```.
  - [ ] Commiting files - ```commit```.
